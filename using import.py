@@ -6,5 +6,6 @@ while True:
   if x == random.randint(a,b):
     print("You guessed right.")
     break 
+    exit()
   else:
     print("You guessed wrong.Try again.")
