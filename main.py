@@ -1,6 +1,6 @@
 print("Welcome to Guess the Number.")
 print()
-print("Guess a number between 1 and 1,000,000 and I will tell you if you are too low, too high, or get it correct.")
+print("Guess a number and I will tell you if you are too low, too high, or get it correct.")
 print()
 print("Let's play!")
 
