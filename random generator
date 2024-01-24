@@ -1,0 +1,10 @@
+
+import random
+
+x = int(input("Enter the number of times: "))
+a = int(input("Enter the lowest number: "))
+b = int(input("Enter the highest number: "))
+b += 1
+
+for i in range(x):
+    print(random.randint(a, b))
